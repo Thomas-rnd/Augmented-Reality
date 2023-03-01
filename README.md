@@ -1,8 +1,17 @@
-# Insertion d'un hologramme sur une feuille en movement
+# Augmented reality
+This project is a part of the signal processing training at the ENSC
 
-# Objectifs :
-- Tracking d'une feuille depuis une vidéo
-- Insertion d'une vidéo en remplaçant la feuille par homographie
-- Ajout d'un hologramme 
+## Project Intro/Objective
+There is several purposes in this project : 
+- Tracking of a sheet of paper in a video
+- Insert a photo to replace the sheet of paper
+- Insert a 3D object, moving with the paper
 
-Projet réalisé en groupe en 2A à l'ENSC
+### Methods Used
+* Harris Detector
+* Homography
+* Solid Mechanics
+* Image processing
+
+### Technologies
+* Matlab
