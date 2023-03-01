@@ -13,5 +13,5 @@ There is several purposes in this project :
 * Solid Mechanics
 * Image processing
 
-### Technologies
+### Technology
 * Matlab
